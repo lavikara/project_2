@@ -1,4 +1,4 @@
-## OpenZeppelin version used in the project.
+### OpenZeppelin version used in the project.
 
 "openzeppelin-solidity": {
    "version": "2.3.0",
@@ -6,7 +6,7 @@
    "integrity": "sha512-QYeiPLvB1oSbDt6lDQvvpx7k8ODczvE474hb2kLXZBPKMsxKT1WxTCHBYrCU7kS7hfAku4DcJ0jqOyL+jvjwQw=="
 }
     
-## Truffle version
+### Truffle version
 
 "truffle-hdwallet-provider": {
    "version": "1.0.17",
@@ -20,10 +20,10 @@
    }
 }
     
-## Your ERC-721 Token Name
+### ERC-721 Token Name
 **Lavi Token**
    
-## Your ERC-721 Token Symbol
+### ERC-721 Token Symbol
 **Lavi**
 
 
