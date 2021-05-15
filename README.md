@@ -1,3 +1,9 @@
+### ERC-721 Token Name
+**Lavi Token**
+   
+### ERC-721 Token Symbol
+**Lavi**
+
 ### OpenZeppelin version used in the project.
 
 ```
@@ -23,12 +29,6 @@
    }
 }
 ```
-    
-### ERC-721 Token Name
-**Lavi Token**
-   
-### ERC-721 Token Symbol
-**Lavi**
 
 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
