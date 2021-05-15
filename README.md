@@ -1,6 +1,7 @@
 ### OpenZeppelin version used in the project.
 
-```"openzeppelin-solidity": {
+```
+"openzeppelin-solidity": {
    "version": "2.3.0",
    "resolved": "https://registry.npmjs.org/openzeppelin-solidity/-/openzeppelin-solidity-2.3.0.tgz",
    "integrity": "sha512-QYeiPLvB1oSbDt6lDQvvpx7k8ODczvE474hb2kLXZBPKMsxKT1WxTCHBYrCU7kS7hfAku4DcJ0jqOyL+jvjwQw=="
@@ -9,6 +10,7 @@
     
 ### Truffle version
 
+```
 "truffle-hdwallet-provider": {
    "version": "1.0.17",
    "resolved": "https://registry.npmjs.org/truffle-hdwallet-provider/-/truffle-hdwallet-provider-1.0.17.tgz",
@@ -20,6 +22,7 @@
       "websocket": "^1.0.28"
    }
 }
+```
     
 ### ERC-721 Token Name
 **Lavi Token**
