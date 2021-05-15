@@ -1,3 +1,25 @@
+# OpenZeppelin version used in the project.
+
+   "openzeppelin-solidity": {
+      "version": "2.3.0",
+      "resolved": "https://registry.npmjs.org/openzeppelin-solidity/-/openzeppelin-solidity-2.3.0.tgz",
+      "integrity": "sha512-QYeiPLvB1oSbDt6lDQvvpx7k8ODczvE474hb2kLXZBPKMsxKT1WxTCHBYrCU7kS7hfAku4DcJ0jqOyL+jvjwQw=="
+    }
+    
+# Truffle version
+
+   "truffle-hdwallet-provider": {
+      "version": "1.0.17",
+      "resolved": "https://registry.npmjs.org/truffle-hdwallet-provider/-/truffle-hdwallet-provider-1.0.17.tgz",
+      "integrity": "sha512-s6DvSP83jiIAc6TUcpr7Uqnja1+sLGJ8og3X7n41vfyC4OCaKmBtXL5HOHf+SsU3iblOvnbFDgmN6Y1VBL/fsg==",
+      "requires": {
+        "any-promise": "^1.3.0",
+        "bindings": "^1.3.1",
+        "web3": "1.2.1",
+        "websocket": "^1.0.28"
+      }
+    }
+
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
