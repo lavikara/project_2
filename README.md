@@ -1,4 +1,61 @@
-# ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
+#### ERC-721 Token Name
+
+```Lavi Token```
+   
+#### ERC-721 Token Symbol
+
+```Lavi```
+
+#### Contract address on rinkeby
+
+```0xB4CFe8eE04CbA3e729d93B70c87aeFA0bc2be8fd```
+
+
+
+### OpenZeppelin version used in the project.
+
+```
+"openzeppelin-solidity": {
+   "version": "2.3.0",
+   "resolved": "https://registry.npmjs.org/openzeppelin-solidity/-/openzeppelin-solidity-2.3.0.tgz",
+   "integrity": "sha512-QYeiPLvB1oSbDt6lDQvvpx7k8ODczvE474hb2kLXZBPKMsxKT1WxTCHBYrCU7kS7hfAku4DcJ0jqOyL+jvjwQw=="
+}
+```
+    
+### Truffle version
+
+```
+"truffle-hdwallet-provider": {
+   "version": "1.0.17",
+   "resolved": "https://registry.npmjs.org/truffle-hdwallet-provider/-/truffle-hdwallet-provider-1.0.17.tgz",
+   "integrity": "sha512-s6DvSP83jiIAc6TUcpr7Uqnja1+sLGJ8og3X7n41vfyC4OCaKmBtXL5HOHf+SsU3iblOvnbFDgmN6Y1VBL/fsg==",
+   "requires": {
+      "any-promise": "^1.3.0",
+      "bindings": "^1.3.1",
+      "web3": "1.2.1",
+      "websocket": "^1.0.28"
+   }
+}
+```
+
+### Deploy to rinkeby testnet
+```
+   Deploying 'StarNotary'
+   ----------------------
+   > transaction hash:    0x6f040b626169431b31c014190ffbe70165e86c535d7404e9696c4e35f78ef808
+   > Blocks: 1            Seconds: 13
+   > contract address:    0xB4CFe8eE04CbA3e729d93B70c87aeFA0bc2be8fd
+   > block number:        8592902
+   > block timestamp:     1621128900
+   > account:             0x081D87c859354f5b81dB20730Cf190A78c688083
+   > balance:             18.747277
+   > gas used:            2256305 (0x226db1)
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.02256305 ETH
+```
+
+
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
 ### ToDo
