@@ -30,6 +30,23 @@
 }
 ```
 
+### Deploy to testnet
+```
+   Deploying 'StarNotary'
+   ----------------------
+   > transaction hash:    0x6f040b626169431b31c014190ffbe70165e86c535d7404e9696c4e35f78ef808
+   > Blocks: 1            Seconds: 13
+   > contract address:    0xB4CFe8eE04CbA3e729d93B70c87aeFA0bc2be8fd
+   > block number:        8592902
+   > block timestamp:     1621128900
+   > account:             0x081D87c859354f5b81dB20730Cf190A78c688083
+   > balance:             18.747277
+   > gas used:            2256305 (0x226db1)
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.02256305 ETH
+```
+
 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
