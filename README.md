@@ -1,14 +1,14 @@
 #### ERC-721 Token Name
 
-**Lavi Token**
+```Lavi Token```
    
 #### ERC-721 Token Symbol
 
-**Lavi**
+```Lavi```
 
 #### Contract address on rinkeby
 
-**0xB4CFe8eE04CbA3e729d93B70c87aeFA0bc2be8fd**
+```0xB4CFe8eE04CbA3e729d93B70c87aeFA0bc2be8fd```
 
 
 
