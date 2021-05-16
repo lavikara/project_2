@@ -4,6 +4,9 @@
 ### ERC-721 Token Symbol
 **Lavi**
 
+### Contract address on rinkeby
+**0xB4CFe8eE04CbA3e729d93B70c87aeFA0bc2be8fd**
+
 ### OpenZeppelin version used in the project.
 
 ```
